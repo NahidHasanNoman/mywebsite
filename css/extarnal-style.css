@@ -10,7 +10,7 @@
     
 }
 #home-section{
-    background: url('images/home-bg.jpg') no-repeat center ;   
+    background: url("../images/home-bg.jpg") no-repeat center ;   
     background-size: cover;
     min-height: 700px;
     background-attachment: fixed;
